@@ -6,7 +6,7 @@ Examples:
 Function views
     1. Add an import:  from my_app import views
     2. Add a URL to urlpatterns:  path('', views.home, name='home')
-Class-based views 28 Jan 2021
+Class-based views 28 Jan 2021 Added by Narayan Mishra 6:53 AM
     1. Add an import:  from other_app.views import Home
     2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
 Including another testjhkh Narayan Mishra tttttttttt
